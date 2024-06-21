@@ -14,7 +14,7 @@
 <hr>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/khatuna-jannat-sarnali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khatuna-jannat-sarnali/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/khatunajannatsarnali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005349826461" height="30" width="40" /></a>
 </p>
@@ -22,14 +22,12 @@
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
-
- <h2 style="color: white;" align="left">💻 Skills & Expertise
-</h2>
    
    <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,c,java,nextjs,mysql,mongodb" /><br>
 </div>
+<hr>
 
 
 
