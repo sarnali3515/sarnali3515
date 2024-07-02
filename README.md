@@ -4,7 +4,7 @@
 ![Frontend Web Developer](https://media.licdn.com/dms/image/D5616AQGl_lnDZmVNBg/profile-displaybackgroundimage-shrink_350_1400/0/1714594456496?e=1723680000&v=beta&t=W4Ud0soBIZYPRxvGzUay51MfP6ku42S-rZ5ynRWVpo0)
 
 <hr>
-
+<h3 align="left">About Me:</h3>
 - 🌱 I’m currently learning **React.js**
 - 👯 I’m looking to collaborate on web development project
 - 📫 How to reach me **kjsarnali@gmail.com**
