@@ -31,9 +31,10 @@ gi<h1 align="center">Hi 👋, I'm Sarnali</h1>
 
 
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarnali3515&show_icons=true&locale=en&layout=compact" alt="sarnali3515" />
-  
+</div>
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarnali3515&" alt="sarnali3515" />
 </div>
 
