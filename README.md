@@ -31,13 +31,12 @@ gi<h1 align="center">Hi 👋, I'm Sarnali</h1>
 
 
 
-<p style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarnali3515&show_icons=true&locale=en&layout=compact" alt="sarnali3515" style="display: block; margin: auto;" />
-</p>
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarnali3515&show_icons=true&locale=en&layout=compact" alt="sarnali3515" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarnali3515&" alt="sarnali3515" />
+</div>
 
-<p style="text-align: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarnali3515&" alt="sarnali3515" style="display: block; margin: auto;" />
-</p>
 
 
 
