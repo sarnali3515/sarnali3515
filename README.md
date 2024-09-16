@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sarnali</h1>
+gi<h1 align="center">Hi 👋, I'm Sarnali</h1>
 <h3 align="center">A frontend developer from Bangladesh</h3>
 
 ![Frontend Web Developer](https://media.licdn.com/dms/image/D5616AQGl_lnDZmVNBg/profile-displaybackgroundimage-shrink_350_1400/0/1714594456496?e=1723680000&v=beta&t=W4Ud0soBIZYPRxvGzUay51MfP6ku42S-rZ5ynRWVpo0)
@@ -33,7 +33,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarnali3515&show_icons=true&locale=en&layout=compact" alt="sarnali3515" /></p>
 
-
+<hr>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarnali3515&" alt="sarnali3515" /></p>
 
