@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarnali</h1>
 <h3 align="center">A frontend developer from Bangladesh</h3>
 
-![Frontend Web Developer](https://media.licdn.com/dms/image/D5616AQGl_lnDZmVNBg/profile-displaybackgroundimage-shrink_350_1400/0/1714594456496?e=1723680000&v=beta&t=W4Ud0soBIZYPRxvGzUay51MfP6ku42S-rZ5ynRWVpo0)
+
 
 <div align="center">
   <img src="https://github.com/sarnali3515/sarnali3515/blob/main/banner.png" alt="Banner" width="100%" />
