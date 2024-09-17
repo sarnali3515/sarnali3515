@@ -3,6 +3,10 @@
 
 ![Frontend Web Developer](https://media.licdn.com/dms/image/D5616AQGl_lnDZmVNBg/profile-displaybackgroundimage-shrink_350_1400/0/1714594456496?e=1723680000&v=beta&t=W4Ud0soBIZYPRxvGzUay51MfP6ku42S-rZ5ynRWVpo0)
 
+<div align="center">
+  <img src="https://github.com/sarnali3515/sarnali3515/blob/main/banner.png" alt="Banner" width="100%" />
+</div>
+
 <hr>
 
 - 🌱 I’m currently learning **React.js**
