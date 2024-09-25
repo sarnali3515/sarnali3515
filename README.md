@@ -9,10 +9,11 @@
 
 <hr>
 
-- 🌱 I’m currently learning **React.js**
-- 👯 I’m looking to collaborate on web development project
+- 🌱 I’m currently learning **TypeScript**
 - 📫 How to reach me **kjsarnali@gmail.com**
-- ⚡ Fun fact: I learned to code my first website by following online tutorials! 
+- 🔍 Exploring: Redux, Mongoose, Next.js
+- 💼 Open to freelance projects or internship opportunities in web development
+
 
 
 <hr>
