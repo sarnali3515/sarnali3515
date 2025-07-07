@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarnali</h1>
-<h3 align="center">A frontend developer from Bangladesh</h3>
+<h3 align="center">Frontend developer</h3>
 
 
 
@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **TypeScript**
 - 📫 How to reach me **kjsarnali@gmail.com**
 - 🔍 Exploring: Redux, Mongoose, Next.js
-- 💼 Open to freelance projects or internship opportunities in web development
+- 💼 Open to freelance projects in web and app development
 
 
 
