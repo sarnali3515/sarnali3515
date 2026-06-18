@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sarnali</h1>
-<h3 align="center">Frontend developer</h3>
+<h1 align="center">Hi, I'm Sarnali</h1>
+<h2 align="center">Frontend developer</h2>
 
 
 
@@ -9,9 +9,8 @@
 
 <hr>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **SQL**
 - 📫 How to reach me **kjsarnali@gmail.com**
-- 🔍 Exploring: Redux, Mongoose, Next.js
 - 💼 Open to freelance projects in web and app development
 
 
